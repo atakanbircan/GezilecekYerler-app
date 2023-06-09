@@ -1,7 +1,7 @@
 # GezilecekYerlerApp
 
 #
-## Firebase auth ve realtime database kullanılarak kullanıcı kayıt,giriş,çıkış ve  ihtiyaçlara göre gittiği şehirler hakkında not alabildiği ve bunların veritabanında tutulduğu uygulamadır.
+## Firebase Authentication ve realtime database kullanılarak kullanıcı kayıt,giriş,çıkış ve  ihtiyaçlara göre gittiği şehirler hakkında not alabildiği ve bunların veritabanında tutulduğu uygulamadır.
 
 
 | Tool              |Version |
