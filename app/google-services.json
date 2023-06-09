@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82930553685",
+    "firebase_url": "https://gezilecekyerler-36620-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gezilecekyerler-36620",
+    "storage_bucket": "gezilecekyerler-36620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82930553685:android:14e3cacbf119fb8e4b15dc",
+        "android_client_info": {
+          "package_name": "com.gezilecekyerler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82930553685-ouhfesl1ftpa8of756nojqdkd64dr25a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gezilecekyerler",
+            "certificate_hash": "1a086e12019734a93270741fdfab774b6b4dd34b"
+          }
+        },
+        {
+          "client_id": "82930553685-b3n8g67tb9pd35ln7mputd044j38q80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nIBDsjjIc9ZPmhtngknpX8fRXoi6d_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82930553685-b3n8g67tb9pd35ln7mputd044j38q80i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
